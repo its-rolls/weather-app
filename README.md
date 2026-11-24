@@ -1,5 +1,5 @@
 # 🌤️ React Weather App
-
+...
 A sleek, responsive weather application built with React and Vite. It fetches real-time weather data from the OpenWeatherMap API, allowing users to search for current weather conditions, temperatures, humidity, and wind speeds for any city worldwide.
 
 ![Weather App Preview](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
